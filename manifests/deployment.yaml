@@ -20,4 +20,3 @@ spec:
         image: nginx:1.27.5
         ports:
         - containerPort: 80
-``
